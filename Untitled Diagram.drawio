@@ -1,90 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T12:32:23.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="7AIZDENgDjrUVk4iGrQX" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T12:39:25.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ozErPkvhhblYq4xyic58" version="13.6.9" type="github">
   <diagram id="da8AWAP_-NjjCjRMZXqC" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-1" target="2ZKemznr1GTYIC5eqLNA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="Користувач" Користувач="Людина, яка користується послугами" id="2ZKemznr1GTYIC5eqLNA-1">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
             <mxGeometry x="180" y="80" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-2" target="2ZKemznr1GTYIC5eqLNA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="Провайдер" Провайдер="Орг. яка керує доступом до інтернету" id="2ZKemznr1GTYIC5eqLNA-2">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
             <mxGeometry x="400" y="80" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-3" target="2ZKemznr1GTYIC5eqLNA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="Система оплати" Система_оплати="Система перерахування і визначення тарифного плану" id="2ZKemznr1GTYIC5eqLNA-3">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
             <mxGeometry x="620" y="80" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <object label="Оплата тариф. плану" Оплата_тарифного_плану="Запускається користувачем.&#xa;Дає змогу оплачувати обраний користувачем тарифний план." id="2ZKemznr1GTYIC5eqLNA-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="70" y="190" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="60" y="190" width="80" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-5" target="2ZKemznr1GTYIC5eqLNA-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="Користування&lt;br&gt;посгулами" Користування_послугами="Запускається користувачем.&#xa;Дозволяє користуватись послугами Інтернет." id="2ZKemznr1GTYIC5eqLNA-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="70" y="130" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="60" y="130" width="80" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-6" target="2ZKemznr1GTYIC5eqLNA-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="170" y="90" />
-              <mxPoint x="170" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <object label="Реєстрація" Рєєстрація="Запускається користувачем.&#xa;Дозволяє створювати обліковий запис та обирати потрібний тарифний план." id="2ZKemznr1GTYIC5eqLNA-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="70" y="70" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="60" y="70" width="80" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-7" target="2ZKemznr1GTYIC5eqLNA-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="Визначення тарифного плану" Визначення_тарифного_плану="Запускається системою оплати.&#xa;Дає змогу за логіном визначити обраний тарифний план користувача." id="2ZKemznr1GTYIC5eqLNA-7">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="290" y="130" width="90" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="270" y="130" width="90" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-8" target="2ZKemznr1GTYIC5eqLNA-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="120" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <object label="Перевірка&lt;br&gt;перерахування" Перевірка_перерахування="Запускається системою оплати.&#xa;Дозволяє виконати перевірку сплати користувачем за послуги інтернет." id="2ZKemznr1GTYIC5eqLNA-8">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="290" y="70" width="90" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="270" y="70" width="90" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-9" target="2ZKemznr1GTYIC5eqLNA-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="Надання доступу" Надання_доступу="Запускається провайдером.&#xa;Дозволяє у випадку оплати послуг надати користувачу доступ до Інтернету." id="2ZKemznr1GTYIC5eqLNA-9">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="510" y="70" width="70" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="2ZKemznr1GTYIC5eqLNA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2ZKemznr1GTYIC5eqLNA-10" target="2ZKemznr1GTYIC5eqLNA-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="Блокування доступу" Блокування_доступу="Запускається провайдером.&#xa;Дозволяє у випадку несплати за послуги заблокувати доступ до Інтернету." id="2ZKemznr1GTYIC5eqLNA-10">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="510" y="130" width="70" height="40" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ZKemznr1GTYIC5eqLNA-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="120" as="sourcePoint" />
+            <mxPoint x="600" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="120" />
+              <mxPoint x="600" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ZKemznr1GTYIC5eqLNA-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="120" />
+              <mxPoint x="380" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ZKemznr1GTYIC5eqLNA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="140" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="120" />
+              <mxPoint x="160" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZKemznr1GTYIC5eqLNA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ZKemznr1GTYIC5eqLNA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="120" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="120" />
+              <mxPoint x="160" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
